@@ -18,12 +18,12 @@ int main()
         if (c % 2 == 0)
         {
             if (a >= max)
-				max = a;
+		max = a;
         }
         else
         {
             if (a <= min)
-				min = a;
+		min = a;
         }
     }
 
